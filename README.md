@@ -1,2 +1,5 @@
-# micrograd
-A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API. Based on Karpathy's micrograd
+## Neural network: Zero to Hero lessons
+Workbooks for Andrej karpathy lessons [youtube channel](https://www.youtube.com/@AndrejKarpathy)
+
+### Micrograd
+A demo to create NN from scratch.
